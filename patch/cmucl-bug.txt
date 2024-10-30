@@ -1,0 +1,1 @@
+CMUCL cannot compile NAMED-READTABLES
